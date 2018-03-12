@@ -1,2 +1,2 @@
 # coffee_tarot
-(not so serious) tarot prediction based on coffee grounds
+(not so serious) p5js - tarot prediction based on coffee grounds
