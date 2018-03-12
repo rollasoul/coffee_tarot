@@ -1,3 +1,6 @@
+//not so serious coffee ground tarot engine to give you early morning joys :) 
+// tarot explanations taken from https://github.com/dariusk/corpora/blob/master/data/divination/tarot_interpretations.json
+
 let video;
 let button;
 let snapshot;
@@ -106,9 +109,6 @@ function draw() {
     text_counter = 1;
   }
 }
-
-
-
 
 // // go fullscreen and resize if necessary
 function windowResized() {
